@@ -1,2 +1,2 @@
-# ProjetoGithub
-projeto para demonstração do uso do github
+# ProjetoURA
+Envio das assets para a finalização da criação do jogo.
